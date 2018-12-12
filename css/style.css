@@ -1,0 +1,176 @@
+@font-face{
+	src:url(../fonts/Helvetica Neu Bold.ttf);
+	font-family: Helvetica Neu Bold;
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+header{
+	background-color: #FCDB00;
+}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+	font-weight: bold;
+	font-size: 22px;
+    color:#010101 !important;
+    padding: 20px 40px !important;
+}
+#slider{
+	background-color: #FCDB00;
+	padding-bottom: 20px;
+
+}
+.content{
+	padding-top: 60px;
+}
+.content h1{
+	font-size: 32px;
+	font-weight: bold;
+}
+.content h5{
+	font-size: 20px;
+	font-weight: 400;
+}
+.content p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #555555;
+}
+.slider_icon ul li i{
+	color: #010101;
+	font-size: 50px;
+	margin-top: 10px;
+}
+.font2{
+	margin-left: 60px;
+}
+.font3{
+	margin-left: 60px;
+}
+
+img {
+    border-radius: 5%;
+}
+.slider li{
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+}
+.custom_pad{
+	padding: 30px 0 110px 0;
+}
+.font2{
+	margin-left: 25px;
+}
+.font3{
+	margin-left: 40px;
+}
+/*feature start*/
+.feature{
+	padding: 80px 0 100px 0;
+}
+.title{
+	margin-bottom: 60px;
+}
+.title h1{}
+.title p{}
+.sing_icon i{
+	font-size: 45px;
+}
+.sing_cont h1{
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101;
+
+}
+.sing_cont p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #555555;
+}
+.p_r_0{
+	padding-right: 0;
+}
+.p_l_0{
+	padding-left: 0;
+}
+.m_b{
+	margin-bottom: 40px;
+}
+.cus_form{
+	
+}
+/*contact start*/
+.contact{
+	background-color: #000;
+	padding: 80px 0 100px 0;
+}
+.cont_dtls{
+
+}
+.cont_dtls h1{
+	color: #FCDB00;
+	font-size: 32px;
+	font-weight: 700;
+}
+.cont_dtls p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #676767;
+}
+.cus_form{
+	margin: 40px 0 0 250px;
+	padding-bottom: 30px;
+}
+input[type=email]{
+	padding: 20px 270px 20px 20px;
+	border: none !important;
+
+}
+button{
+	background-color: #FCDB00 !important;
+	color: #000 !important;
+	padding: 8px 25px !important;
+	font-weight: 700 !important;
+}
+button:hover{
+	background-color:#555555;
+	color: #FCDB00;
+}
+.fab, .fa-facebook-square{
+	padding: 8px !important;
+	color: #FCDB00 !important;
+}
+
+/*footer start*/
+footer{
+	padding: 10px 0 70px 0;
+	color: #fff;
+	background-color: #000;
+}
+.foot_cont{
+	padding-left: 20px;
+}
+.foot_nav{}
+.foot_nav ul{
+	list-style: none;
+}
+.foot_nav ul li{
+	padding-left: 70px;
+}
+.foot_nav ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+}
+.foot_nav ul li a:hover{
+	color:#555555;
+	transition: .5s;
+}
+
+
+
+
