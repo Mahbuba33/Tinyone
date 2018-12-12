@@ -136,8 +136,9 @@ button{
 	font-weight: 700 !important;
 }
 button:hover{
-	background-color:#555555;
-	color: #FCDB00;
+	background-color:#555555 !important;
+	color: #FCDB00 !important;
+	transition: 0.5s;
 }
 .fab, .fa-facebook-square{
 	padding: 8px !important;
